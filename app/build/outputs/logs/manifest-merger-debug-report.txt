@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.ibrahimsn98:live-preferences:1.6] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/33e94afe862f3706c8b530d3e76f87cd/jetified-live-preferences-1.6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a90935574f82694cec42fb7c78743b1/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/76e8d8e10a0e1f55e5e9a72270e98375/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c4ef5ca596413fc5b60e6754465386ae/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fa3c10986542b2c5920c009e2fa47143/jetified-play-services-ads-18.3.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a7cc902d46014fc4c9a333a9f7cf854/glide-4.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3e9aa4b09b0817bb397fe544deba8b1c/room-runtime-2.2.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/62f0b6f27e4a370ca59a6a68553fcc74/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d870cb23017dba92c403b07d3cb52354/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/7fac895fe851c4780d3f85ee16398ae2/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/476a4c7824220de278f7bd77a11c7324/play-services-gass-18.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9fbf1a669309eeefac7f668e313e8293/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/e29f8533950b5c7ab8317f8034ed07fb/play-services-measurement-base-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fc08d3a40c84ac97067148a9caae8dc0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/5036e040bfb2ed21141db5907dc80a84/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/17a5aaf00c7b911ced147a44b861d49d/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3bab9bb899029c23f3bc6bb6d4339d56/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/564388c32085138c359dac6cb7f3f8e1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d92e74c548111a4842462bb118fb0728/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c4562fd65ed885f6ad4e782f0a1ddc8c/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d703d4fb91397ebd0fcc249b0286692c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fa974f7789519f660b0500bf3e2ef9d2/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c00566a796c8bc87aa9bfe04c457a8ea/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/a2a941aa4e6ab52251306224b3bb595c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c8ebf87c1c29c88362d4ad2f5e9fa69e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/318bfc0e146c18ed25c3a6b2db325bf4/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/29ac96be6fb81a47a5ed35cb50bf191a/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8ce023457c6feb6f1685f591c421bd20/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/4c11edde0e8743f1e03fb17544729eec/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6de075386d20be281a87dfa1b2d6ac45/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/73aea4854122d1054b8bb306d2093eb9/gifdecoder-4.10.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/08e3700ddfb965a45c5d7f55d61c32b7/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/98783e3820b57b06260d3cf65d96675d/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/5a1c4eddcc7edd62ae9d9820d50faa14/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/378411239ba5e969692a3d9c86b767c8/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a2e47f7301477f9bcfb8419ee20c171/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fd2883ae1efd2c93b256724aa656969e/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/a09f34a7d8bb632b18d73f2937dc32e4/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/44841f9ca2f4417b2d14d4adf0514cad/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d83fe64bffd2c3a18b5121db5e3cda89/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9444e3cf77d3306ef4a80ba458253a45/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9233c21f8ab497c46d13c1cb3bad199c/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/325d0e9e870fa4d06b24c18c9ee90ee8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6e8ff5dae9ae98303b39551f9121404f/rxandroid-2.0.2/AndroidManifest.xml:15:1-21:12
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8df605442a3b3bb1f89ffc6d60814cde/play-services-ads-base-18.3.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c4ef5ca596413fc5b60e6754465386ae/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c4ef5ca596413fc5b60e6754465386ae/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a7cc902d46014fc4c9a333a9f7cf854/glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a7cc902d46014fc4c9a333a9f7cf854/glide-4.10.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3e9aa4b09b0817bb397fe544deba8b1c/room-runtime-2.2.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3e9aa4b09b0817bb397fe544deba8b1c/room-runtime-2.2.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/62f0b6f27e4a370ca59a6a68553fcc74/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/62f0b6f27e4a370ca59a6a68553fcc74/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/7fac895fe851c4780d3f85ee16398ae2/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/7fac895fe851c4780d3f85ee16398ae2/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/476a4c7824220de278f7bd77a11c7324/play-services-gass-18.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/476a4c7824220de278f7bd77a11c7324/play-services-gass-18.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9fbf1a669309eeefac7f668e313e8293/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9fbf1a669309eeefac7f668e313e8293/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/e29f8533950b5c7ab8317f8034ed07fb/play-services-measurement-base-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/e29f8533950b5c7ab8317f8034ed07fb/play-services-measurement-base-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fc08d3a40c84ac97067148a9caae8dc0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fc08d3a40c84ac97067148a9caae8dc0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/4c11edde0e8743f1e03fb17544729eec/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/4c11edde0e8743f1e03fb17544729eec/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/73aea4854122d1054b8bb306d2093eb9/gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/73aea4854122d1054b8bb306d2093eb9/gifdecoder-4.10.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8df605442a3b3bb1f89ffc6d60814cde/play-services-ads-base-18.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8df605442a3b3bb1f89ffc6d60814cde/play-services-ads-base-18.3.0/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/4c11edde0e8743f1e03fb17544729eec/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:9:9-45
+	android:icon
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:7:9-40
+	android:allowBackup
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.finalproject.MainActivity
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.finalproject.SelectionActivity
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:20:9-55
+	android:name
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:20:19-52
+activity#com.example.finalproject.GameActivity
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:21:19-47
+activity#com.example.finalproject.StatsActivity
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:22:19-48
+activity#com.example.finalproject.RulesActivity
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:23:19-48
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:25:9-27:69
+	android:value
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:27:13-67
+	android:name
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml:26:13-69
+uses-sdk
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+MERGED from [com.github.ibrahimsn98:live-preferences:1.6] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/33e94afe862f3706c8b530d3e76f87cd/jetified-live-preferences-1.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ibrahimsn98:live-preferences:1.6] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/33e94afe862f3706c8b530d3e76f87cd/jetified-live-preferences-1.6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a90935574f82694cec42fb7c78743b1/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a90935574f82694cec42fb7c78743b1/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/76e8d8e10a0e1f55e5e9a72270e98375/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/76e8d8e10a0e1f55e5e9a72270e98375/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c4ef5ca596413fc5b60e6754465386ae/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c4ef5ca596413fc5b60e6754465386ae/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fa3c10986542b2c5920c009e2fa47143/jetified-play-services-ads-18.3.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fa3c10986542b2c5920c009e2fa47143/jetified-play-services-ads-18.3.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a7cc902d46014fc4c9a333a9f7cf854/glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a7cc902d46014fc4c9a333a9f7cf854/glide-4.10.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3e9aa4b09b0817bb397fe544deba8b1c/room-runtime-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3e9aa4b09b0817bb397fe544deba8b1c/room-runtime-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/62f0b6f27e4a370ca59a6a68553fcc74/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/62f0b6f27e4a370ca59a6a68553fcc74/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d870cb23017dba92c403b07d3cb52354/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d870cb23017dba92c403b07d3cb52354/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/7fac895fe851c4780d3f85ee16398ae2/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/7fac895fe851c4780d3f85ee16398ae2/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/476a4c7824220de278f7bd77a11c7324/play-services-gass-18.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/476a4c7824220de278f7bd77a11c7324/play-services-gass-18.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9fbf1a669309eeefac7f668e313e8293/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9fbf1a669309eeefac7f668e313e8293/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/e29f8533950b5c7ab8317f8034ed07fb/play-services-measurement-base-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/e29f8533950b5c7ab8317f8034ed07fb/play-services-measurement-base-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fc08d3a40c84ac97067148a9caae8dc0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fc08d3a40c84ac97067148a9caae8dc0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/5036e040bfb2ed21141db5907dc80a84/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/5036e040bfb2ed21141db5907dc80a84/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/17a5aaf00c7b911ced147a44b861d49d/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/17a5aaf00c7b911ced147a44b861d49d/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3bab9bb899029c23f3bc6bb6d4339d56/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3bab9bb899029c23f3bc6bb6d4339d56/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/564388c32085138c359dac6cb7f3f8e1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/564388c32085138c359dac6cb7f3f8e1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d92e74c548111a4842462bb118fb0728/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d92e74c548111a4842462bb118fb0728/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c4562fd65ed885f6ad4e782f0a1ddc8c/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c4562fd65ed885f6ad4e782f0a1ddc8c/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d703d4fb91397ebd0fcc249b0286692c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d703d4fb91397ebd0fcc249b0286692c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fa974f7789519f660b0500bf3e2ef9d2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fa974f7789519f660b0500bf3e2ef9d2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c00566a796c8bc87aa9bfe04c457a8ea/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c00566a796c8bc87aa9bfe04c457a8ea/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/a2a941aa4e6ab52251306224b3bb595c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/a2a941aa4e6ab52251306224b3bb595c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c8ebf87c1c29c88362d4ad2f5e9fa69e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/c8ebf87c1c29c88362d4ad2f5e9fa69e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/318bfc0e146c18ed25c3a6b2db325bf4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/318bfc0e146c18ed25c3a6b2db325bf4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/29ac96be6fb81a47a5ed35cb50bf191a/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/29ac96be6fb81a47a5ed35cb50bf191a/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8ce023457c6feb6f1685f591c421bd20/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8ce023457c6feb6f1685f591c421bd20/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/4c11edde0e8743f1e03fb17544729eec/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/4c11edde0e8743f1e03fb17544729eec/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6de075386d20be281a87dfa1b2d6ac45/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6de075386d20be281a87dfa1b2d6ac45/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/73aea4854122d1054b8bb306d2093eb9/gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/73aea4854122d1054b8bb306d2093eb9/gifdecoder-4.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/08e3700ddfb965a45c5d7f55d61c32b7/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/08e3700ddfb965a45c5d7f55d61c32b7/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/98783e3820b57b06260d3cf65d96675d/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/98783e3820b57b06260d3cf65d96675d/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/5a1c4eddcc7edd62ae9d9820d50faa14/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/5a1c4eddcc7edd62ae9d9820d50faa14/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/378411239ba5e969692a3d9c86b767c8/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/378411239ba5e969692a3d9c86b767c8/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a2e47f7301477f9bcfb8419ee20c171/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8a2e47f7301477f9bcfb8419ee20c171/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fd2883ae1efd2c93b256724aa656969e/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fd2883ae1efd2c93b256724aa656969e/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/a09f34a7d8bb632b18d73f2937dc32e4/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/a09f34a7d8bb632b18d73f2937dc32e4/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/44841f9ca2f4417b2d14d4adf0514cad/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/44841f9ca2f4417b2d14d4adf0514cad/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d83fe64bffd2c3a18b5121db5e3cda89/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/d83fe64bffd2c3a18b5121db5e3cda89/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9444e3cf77d3306ef4a80ba458253a45/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9444e3cf77d3306ef4a80ba458253a45/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9233c21f8ab497c46d13c1cb3bad199c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/9233c21f8ab497c46d13c1cb3bad199c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/325d0e9e870fa4d06b24c18c9ee90ee8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/325d0e9e870fa4d06b24c18c9ee90ee8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6e8ff5dae9ae98303b39551f9121404f/rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6e8ff5dae9ae98303b39551f9121404f/rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8df605442a3b3bb1f89ffc6d60814cde/play-services-ads-base-18.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8df605442a3b3bb1f89ffc6d60814cde/play-services-ads-base-18.3.0/AndroidManifest.xml:5:5-44
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fa3c10986542b2c5920c009e2fa47143/jetified-play-services-ads-18.3.0/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/markhyun/Desktop/CPSC_Courses/androidfinal/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3e9aa4b09b0817bb397fe544deba8b1c/room-runtime-2.2.1/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3e9aa4b09b0817bb397fe544deba8b1c/room-runtime-2.2.1/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.1] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/3e9aa4b09b0817bb397fe544deba8b1c/room-runtime-2.2.1/AndroidManifest.xml:26:13-74
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/8cca8fd4f9332a83b68517c4d8a33c66/play-services-ads-lite-18.3.0/AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/24dbb6fad98764b159c7117fa386d7a4/play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fc08d3a40c84ac97067148a9caae8dc0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fc08d3a40c84ac97067148a9caae8dc0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/fc08d3a40c84ac97067148a9caae8dc0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/markhyun/.gradle/caches/transforms-2/files-2.1/6cf048463d0f9b7a5cf2a54b73ba773b/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
